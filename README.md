@@ -1,4 +1,14 @@
-# Portfolio Template
+Hello together, if you want to see how my site looks:
+
+- clone the repository
+- run npm install over the command line
+- go into the project with 'cd portfolio_Page'
+- type 'npm run start'
+- maybe you need to install some dependencies before the last step
+- that's it
+
+
+# Portfolio Page
 
 ## Technology Stack & Tools
 
@@ -9,8 +19,9 @@
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
-```
-$ cd portfolio_template
+``
+
+$ cd portfolio_Page
 $ npm install 
 ```
 
